@@ -1,2 +1,1 @@
-# JetBrains의 DataGrip Tips
-
+# JetBrains의 DataGrip 
